@@ -1,0 +1,27 @@
+
+.wrapper-display {
+    width:100%;
+    padding:20px;
+    background: rgb(0,0,0);
+    overflow: hidden;
+
+    }  
+.fetch-files-container{
+  width: calc(60% - 10px);
+  float:left;
+  background-color:rgb(0, 0, 0);
+  padding: 1%;
+}
+.link-container{
+  width: calc(40% - 10px);
+  float:right;
+  background-color:rgb(0, 0, 0);
+  padding: 1%;
+}
+
+.report-container {
+  background-color: rgb(0, 0, 0);
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+}

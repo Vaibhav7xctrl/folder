@@ -1,0 +1,14 @@
+/* src/components/Logo.module.css */
+.logo {
+    border-radius: 8px; /* Example: Make it slightly rounded */
+    transition: transform 0.3s ease-in-out;
+    
+        width: auto;  /* Maintain aspect ratio */
+        height: 100px; /* Adjust this to control size */
+        max-width: 100%; /* Ensures responsiveness */
+  }
+  
+  .logo:hover {
+    transform: scale(1.05);
+  }
+  

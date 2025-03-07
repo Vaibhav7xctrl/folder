@@ -1,0 +1,7 @@
+{
+    "connectionProfilePath": "../fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/connection-org1.json",
+    "walletPath": "./wallet",
+    "channelName": "mychannel",
+    "chaincodeName": "evidence",
+    "mspId": "Org1MSP" 
+}
